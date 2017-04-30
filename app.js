@@ -1,5 +1,5 @@
-var fetcherCd = require('./fetcher-cd');
-var fetcherCmc = require('./fetcher-cmc');
+var fetcherCd = require('./fetcher/fetcher-cd');
+var fetcherCmc = require('./fetcher/fetcher-cmc');
 
 
 //fetch current
